@@ -35,3 +35,13 @@
 .btn{
     width: 100%;
 }
+.nav-link{
+    color: aliceblue;
+    font-size: medium;
+    font-weight: 300;
+}
+.navbar-brand{
+    font-size: medium;
+    font-weight: 400;
+    font-family: sans-serif;
+}
