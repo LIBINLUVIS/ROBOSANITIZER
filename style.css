@@ -5,3 +5,33 @@
     font-weight: 500;
     font-family: sans-serif;
 }
+.secondparatext{
+    color: aliceblue;
+}
+.vbox{
+    width:600px;
+}
+.leftpara{
+    color: aliceblue;
+}
+.rightpara{
+    color: aliceblue;
+}
+.compsectext{
+    color: antiquewhite;
+    font-family:serif;
+}
+.aboutpara{
+    color: aliceblue;
+}
+.abouttext{
+    color: aliceblue;
+}
+.formitems{
+    color: aliceblue;
+    font-size: medium;
+    font-family:Helvetica;
+}
+.btn{
+    width: 100%;
+}
