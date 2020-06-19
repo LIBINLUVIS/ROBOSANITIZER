@@ -45,3 +45,8 @@
     font-weight: 400;
     font-family: sans-serif;
 }
+.head{
+   width: 100%;
+   z-index: 1;
+}
+}
